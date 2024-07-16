@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I currently work at robert boch as a failure analyst<br><br>I study the information technology career in the area of <br>​​multiplatform software development at the UTCJ✍<br><br>I am specializing in the area of ​​frontend development 💻🖱
+<br>I currently work at robert boch as a failure analyst<br><br>I study Software Development and Management Engineering at the UTCJ✍<br><br>I am specializing in the area of ​​frontend development 💻🖱
 
 
 ## 🌐 Socials:
