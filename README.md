@@ -1,4 +1,4 @@
-#Hola, Soy **Brian Manriquez** 
+# Hola, Soy **Brian Manriquez** 
 
 # 💫 About Me:
 <br>I currently work at robert boch as a failure analyst and developer in JMAS<br><br>I study Software Development and Management Engineering at the UTCJ✍<br><br>I am specializing in the area of ​​frontend development 💻🖱
